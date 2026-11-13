@@ -1,0 +1,24 @@
+{
+  "slug": "natural-caters-cheranalloor",
+  "name": "Natural Caters",
+  "shortName": "Natural",
+  "descriptor": "Catering Services",
+  "address": "Thottuva, Cheranalloor, Ernakulam, Keralam",
+  "area": "Thottuva",
+  "city": "Cheranalloor",
+  "district": "",
+  "region": "Kerala",
+  "postalCode": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Natural+Caters+Thottuva+Cheranalloor",
+  "phone": "+91 85900 87345",
+  "whatsapp": "918590087345",
+  "rating": 0,
+  "reviewCount": 0,
+  "reviews": [],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://natural-caters-cheranalloor.vercel.app"
+}
